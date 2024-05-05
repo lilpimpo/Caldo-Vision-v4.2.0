@@ -3,6 +3,7 @@ from tkinter import Canvas, PhotoImage,Frame,Scrollbar
 from PIL import Image, ImageTk
 
 
+
 def scalo(value, leftMin, leftMax, rightMin, rightMax):
     # algoritmo pa sacar cuanto es el maximo y cual es el valor minimo
     leftSpan = leftMax - leftMin
